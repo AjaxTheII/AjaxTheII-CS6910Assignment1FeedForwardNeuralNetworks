@@ -1,6 +1,6 @@
 # Assignment 1
 
-This directory contains solution to [assignment 1](https://wandb.ai/miteshk/assignments/reports/Assignment-1--VmlldzozNjk4NDE?accessToken=r7ndsh8lf4wlxyjln7phvvfb8ftvc0n4lyn4tiowdg06hhzpzfzki4jrm28wqh44) of Fundamentals of Deep Learning (CS6910), Spring 2022. It also contains the implementation of a Feed Forward Neural Network **Feed Forward Neural Network** which can be trained to work on numerical data.
+This directory contains solution to [assignment 1](https://wandb.ai/miteshk/assignments/reports/Assignment-1--VmlldzozNjk4NDE?accessToken=r7ndsh8lf4wlxyjln7phvvfb8ftvc0n4lyn4tiowdg06hhzpzfzki4jrm28wqh44) of Fundamentals of Deep Learning (CS6910), Spring 2022(implementation of a **Feed Forward Neural Network**) which can be trained to work on numerical data.
 
 The solution report with results can be found [here](https://wandb.ai/cs21s048-cs21s058/Assignment1-FeedFwdNeuralNw/reports/Assignment-1--VmlldzoxNjA1MjIy?accessToken=i0ra3meu0j7ov4qpvhj0vwahwtgkgbzpr33chj2b6uh330xeqc9epun3ty3nepk5).
 
